@@ -1,4 +1,4 @@
-# Function Calling Node.js Example with OpenAI GPT-3.5-turbo and Weather API
+# OpenAI Function Calling Node.js Example with the Weather API
 
 This code example demonstrates how to use OpenAI GPT-3.5-turbo model for function calling, specifically to retrieve weather information using a weather API.
 
