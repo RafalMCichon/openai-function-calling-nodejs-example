@@ -1,4 +1,4 @@
-# OpenAI Function Calling Node.js Example with the Weather API
+# OpenAI ChatGPT Function Calling Node.js Example with the Weather API
 
 This Node.js code example showcases the powerful new feature of OpenAI - Function Calling. Function Calling enables developers to interact more reliably with external tools and APIs, including weather information APIs. By describing functions, the model can intelligently output a JSON object containing the necessary arguments for the function call.
 
